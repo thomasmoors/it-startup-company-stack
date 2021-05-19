@@ -42,4 +42,7 @@ This is a list of nice open source projects to start your company with.
  - [Nextcloud](https://github.com/nextcloud/docker)
 
 # Email marketing
- - [Sendportal](https://github.com/mettle/sendportal) 
+ - [Sendportal](https://github.com/mettle/sendportal)
+
+# Mail server
+ - [Postal](https://github.com/postalhq/postal)
