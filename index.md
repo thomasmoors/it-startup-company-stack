@@ -32,3 +32,6 @@ This is a list of nice open source projects to start your company with.
 # Secret sharing
  - [Envault](https://github.com/envault/envault)
  - [Passbolt](https://github.com/passbolt/passbolt_docker)
+
+# File sharing
+ - [Nextcloud](https://github.com/nextcloud/docker)
