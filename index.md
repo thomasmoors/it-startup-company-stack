@@ -19,3 +19,6 @@ This is a list of nice open source projects to start your company with.
 
 # CI/CD
  - [GoCD](https://github.com/gocd/gocd)
+
+# Bugtracking
+ - [Sentry](https://github.com/getsentry/onpremise)
