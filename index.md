@@ -22,6 +22,7 @@ This is a list of nice open source projects to start your company with.
 
 # Timetracking and billing
  - [Kimai](https://github.com/kevinpapst/kimai2)
+ - [Crater](https://github.com/bytefury/crater)
 
 # CI/CD
  - [GoCD](https://github.com/gocd/gocd)
