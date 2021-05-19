@@ -22,3 +22,7 @@ This is a list of nice open source projects to start your company with.
 
 # Bugtracking
  - [Sentry](https://github.com/getsentry/onpremise)
+
+# Secret sharing
+ - [Envault](https://github.com/envault/envault)
+ - [Passbolt](https://github.com/passbolt/passbolt_docker)
