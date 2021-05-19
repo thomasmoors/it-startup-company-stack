@@ -9,6 +9,7 @@ This is a list of nice open source projects to start your company with.
 
 # Wiki
  - [BookStack](https://github.com/BookStackApp/BookStack)
+ - [Outline](https://github.com/outline/outline)
 
 # Version control
  - [Gitea](https://github.com/go-gitea/gitea)
@@ -19,10 +20,13 @@ This is a list of nice open source projects to start your company with.
 
 # Server monitoring
  - [GoAccess](https://github.com/allinurl/goaccess)
+ - [Laravel server monitor](https://github.com/spatie/laravel-server-monitor)
+ - [Netdata](https://github.com/netdata/netdata)
 
 # Timetracking and billing
  - [Kimai](https://github.com/kevinpapst/kimai2)
  - [Crater](https://github.com/bytefury/crater)
+ - [Timestrap](https://github.com/overshard/timestrap)
 
 # CI/CD
  - [GoCD](https://github.com/gocd/gocd)
@@ -36,3 +40,6 @@ This is a list of nice open source projects to start your company with.
 
 # File sharing
  - [Nextcloud](https://github.com/nextcloud/docker)
+
+# Email marketing
+ - [Sendportal](https://github.com/mettle/sendportal) 
