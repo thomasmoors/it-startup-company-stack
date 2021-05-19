@@ -1,5 +1,11 @@
 This is a list of nice open source projects to start your company with.
 
+# Goals
+ - [ ] Add descriptions to every tool
+ - [ ] Add comparisons
+ - [ ] Add docker-compose files when absent
+ - [ ] Add installation instruction
+ - [ ] Create a wizard to install the tools
 
 # Wiki
  - [BookStack](https://github.com/BookStackApp/BookStack)
