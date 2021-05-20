@@ -12,8 +12,10 @@ This is a list of nice open source projects to start your company with.
  - [Outline](https://github.com/outline/outline)
 
 # Version control
- - [Gitea](https://github.com/go-gitea/gitea)
- - [GitLab](https://github.com/gitlabhq/gitlabhq)
+ - [Gitea](https://github.com/go-gitea/gitea)[🏆](https://docs.gitea.io/en-us/comparison/)
+ - [GitLab CE](https://github.com/gitlabhq/gitlabhq)
+ - [Gogs](https://github.com/gogs/gogs)
+ - [RhodeCode CE](https://github.com/rhodecode/rhodecode-enterprise-ce)
 
 # Chat
  - [Mattermost](https://github.com/mattermost/mattermost-docker)
